@@ -1,0 +1,15 @@
+===ustawienia=-==
+
+
+1. Pobranie repozytoriumz github - branche master
+git clone https://github.com/agrybka/mgr.git
+2. SPrawdzenia jakie pliki sa niedodane do repozytorium
+git status
+3. Dodanie do wersjonowania pliku( usuwanie plików git rm "nazwapliku")
+git add "Praca mgr.odt"git
+
+4. Dodanie zmiany do lokalnego repozytorum
+git commit -m "opis zmiany"
+
+5. Dodanie zmiany do mrepozytorium internetowego
+git push

@@ -1,0 +1,34 @@
+
+- zastosowanie technologii spring jako kluczowej techynologii webowej w javie
+
+Zastosowanie narzêdzi open source oraz Spring framework do budowy aplikacji webowych 
+Wstêp
+I ROZDZIA£ – Wstêp teoretyczny/Opis technologii
+I.1 Opis procesu wytwarzania oprogramowania w jezyku Java
+I.2 Narzedzia u¿ywane w procesie wytwarzania oprogramowania w javie
+I.2.1 Narzêdzia kontroli wersji kodu(git vs subversion(svn))
+I.2.2 Narzedzia kompilacji (Maven vs Ant)
+I.2.3 Narzêdzia poprawnoœci pisania kodu (Checkstyle,SonarQube)
+I.2.4 Narzêdzia ci¹g³ej integracji (Jenkins, Hudson)
+I.3 Zastosowanie Spring Framwork w aplikacji webowej w Javie
+I.3.1 Opis kontenera Spring (IoC)
+I.3.2 Architektura trójwarstwowa
+I.3.3 Technologiia JPA i integracja z Spring Spraneframework  
+I.3.4 Integeracja z pozosta³ymi technologiami
+I.3.5 Zalety i podejœcie do pisania testów w javie//Testy jednostkowe w javie
+II Rozdzia³ - wykorzystanie wybranych narzêdzi oraz technologii
+II.1. Dostêp narzedzia opensource
+II.2. Wp³yw zastosowania narzêdzia git w projekcie vs brak kontroli wersji  Zastosowanie narzêdzia git w projekcie - zaleta oraz wady 
+II 3. Zalety oraz wady zastosowanie narzêdzia maven w procesie kompilacji kodu Ÿród³owego i zarz¹dzania zale¿noœciami(bibliotekami) vs standardowe podejœcie
+II 4. Wykrywanie b³êdów w projekcie za pomoca narzêdzia SonarQube
+II 5. Ci¹g³a integracja z narzedziem Jenkins
+II 6. Zastosowanie Springa w aplikacji webowej zalety oraz wady
+II 7. ZaSTOSDOWANIE Integracja Spring z JPA vs standrdowe podejœcie
+II 8. Zastosowanie Integeracja Spring z JSF()
+III Zastosowane narzêdzia oraz technologie na przyk³adzie aplikacja do zarz¹dzania projektami
+ 3.1 Za³o¿enia aplikacji
+ 3.2 Zastosowane narzêdzia
+ 3.3 Zastosowane modu³y springa
+ 3.4 Wdra¿anie aplikacji w œrodowisku klienta
+ 3.5 Wnioski z zastosowania narzêdzie open source w procesie wytwarzania orpogramowania
+ 3.6 Zalety i wady zastosowaniw techonologii Spring w aplikacjach Javy
